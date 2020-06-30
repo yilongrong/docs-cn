@@ -35,6 +35,8 @@ aliases: ['/docs-cn/stable/how-to/upgrade/using-tiup/']
 
 ## 2. 在中控机器上安装 TiUP
 
+使用和 TiDB-Ansible 的相同用户，比如 tidb 用户安装 TiUP. 
+
 1. 在中控机上执行如下命令安装 TiUP：
 
     {{< copyable "shell-regular" >}}
